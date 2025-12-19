@@ -1,13 +1,24 @@
 const projects = [
+    {
+    name: "SumiCalendar",
+    description: "Genera calendarios lineales personalizados.",
+    status: "Lanzado",
+    link: "#",
+    image: "./images/SumiCalendar.jpg",
+    launchDate: "19/12/2025",
+    platforms: [
+      { name: "Web", url: "https://linearcalendar-427.pages.dev/" }
+    ]
+  },
   {
     name: "Sumisario",
     description: "Tu asistente espiritual para el día a día. Oración, versículo, dato curioso y wordle diarios. Dedica velas y reza rosarios guiados.",
     status: "Lanzado",
     link: "#",
     image: "./images/Sumisario.png",
-    launchDate: "20/11/2025",
+    launchDate: "22/11/2025",
     platforms: [
-      { name: "Android", url: "#" }
+      { name: "Android", url: "https://play.google.com/store/apps/details?id=com.sumisario.app" }
     ]
   },
   {
