@@ -1,13 +1,13 @@
 const projects = [
-    {
-    name: "SumiCalendar",
+  {
+    name: "Generador de calendarios lineales",
     description: "Genera calendarios lineales personalizados.",
     status: "Lanzado",
     link: "#",
-    image: "./images/SumiCalendar.jpg",
+    image: "./images/GeneradorCalendarioLineal.png",
     launchDate: "19/12/2025",
     platforms: [
-      { name: "Web", url: "https://linearcalendar-427.pages.dev/" }
+      { name: "Web", url: "https://calendar.sumitap.es" }
     ]
   },
   {
