@@ -12,7 +12,7 @@ const projects = [
   },
   {
     name: "Sumisario",
-    description: "Tu asistente espiritual para el día a día. Oración, versículo, dato curioso y wordle diarios. Dedica velas y reza rosarios guiados.",
+    description: "Tu asistente espiritual para el día a día. Oración, versículo, dato curioso y juegos diarios. Dedica velas y reza rosarios guiados.",
     status: "Lanzado",
     link: "#",
     image: "./images/Sumisario.png",
